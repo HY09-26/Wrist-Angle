@@ -3,7 +3,7 @@ This project uses the DeepLabCut GUI to label and predict joint positions in vid
 
 ## 📌 Project Overview
 
-1. **Label and train using DeepLabCut GUI**
+1. **Joint prediction using DeepLabCut GUI**
    - Load the project `Wrist_angle_DLC`.
    - Analyze new videos using `shuffle 11` (the best performing model so far).
    - Export the results as CSV files.
