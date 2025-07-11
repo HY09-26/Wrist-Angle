@@ -8,7 +8,7 @@ This project uses the DeepLabCut GUI to label and predict wrist joint positions 
    - Load the project `Wrist_angle_DLC`.
    - Analyze new videos using the `shuffle 11` model (currently the best-performing).
    - Export the results as CSV files.
-   - Check the likelihood values for MCP, wrist, and forearm keypoints (recommended: >0.6).
+   - Check the likelihood values for MCP, wrist, and forearm (recommended: >0.6).
 
 2. **Data analysis in Jupyter Notebook**
    - Load the exported CSV files.
